@@ -1,2 +1,4 @@
 # power-bi-project
-ecommerce sales dashboard analysis using power bi
+this project is about creating and providing ease to ecommerce sales dashboard analysis using power bi
+
+
